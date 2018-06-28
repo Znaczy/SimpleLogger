@@ -1,7 +1,7 @@
 "# SimpleLogger" 
 
 Welcome to Simple Logger simple logging application. 
-This is a simple logging library with console application attached demonstrating it work. 
+This is a simple logging library with console application attached demonstrating how it works. 
 It writes logs to file, registry and eventlog. 
 
 In case you want to log something simply with our Logger please follow these steps:
