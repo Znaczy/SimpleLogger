@@ -1,0 +1,11 @@
+c:\VsRepos\SimpleLogger\bin\Debug\netcoreapp2.1\SimpleLogger.deps.json
+c:\VsRepos\SimpleLogger\bin\Debug\netcoreapp2.1\SimpleLogger.runtimeconfig.json
+c:\VsRepos\SimpleLogger\bin\Debug\netcoreapp2.1\SimpleLogger.runtimeconfig.dev.json
+c:\VsRepos\SimpleLogger\bin\Debug\netcoreapp2.1\SimpleLogger.dll
+c:\VsRepos\SimpleLogger\bin\Debug\netcoreapp2.1\SimpleLogger.pdb
+c:\VsRepos\SimpleLogger\obj\Debug\netcoreapp2.1\SimpleLogger.csprojAssemblyReference.cache
+c:\VsRepos\SimpleLogger\obj\Debug\netcoreapp2.1\SimpleLogger.csproj.CoreCompileInputs.cache
+c:\VsRepos\SimpleLogger\obj\Debug\netcoreapp2.1\SimpleLogger.AssemblyInfoInputs.cache
+c:\VsRepos\SimpleLogger\obj\Debug\netcoreapp2.1\SimpleLogger.AssemblyInfo.cs
+c:\VsRepos\SimpleLogger\obj\Debug\netcoreapp2.1\SimpleLogger.dll
+c:\VsRepos\SimpleLogger\obj\Debug\netcoreapp2.1\SimpleLogger.pdb
